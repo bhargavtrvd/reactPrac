@@ -1,1 +1,1 @@
-Let's get started with installing and running this code! :)
+Let's get started with installing and running this code exercise! :)
